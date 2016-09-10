@@ -1,0 +1,23 @@
+# Site settings
+title: Exploring neo4j
+tag_text: Exploring neo4j
+description: >
+  This project includes a series of short papers that explore the neo4j database along with a basic project that illustrates its use. This work was done for the ICS 611 course in the MS CS program at Metropolitan State University.
+baseurl: "/exploring-neo4j" # the subpath of your site, e.g. /blog
+url: "http://mbmosman.github.io"
+twitter_username: mbmosman
+github_username:  mbmosman
+linkedin_display_name:  Mary Mosman
+linkedin_username: mary-mosman-43523976
+
+# Build settings
+font-awesome-include: true # make this false if you don't need font-awesome
+markdown: kramdown
+
+gems:
+  - jemoji
+
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
