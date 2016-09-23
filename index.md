@@ -7,7 +7,7 @@ This site presents a project that I completed for the ICS611 course in the MSCS 
 ### Papers
 
 - [Overview](part1-overview.html)
-- [Installation & Setup](part2-install.html)
+- [Installation & Getting Started](part2-install.html)
 - [Application Design & Implementation](part3-app-design-impl.html)
 - [Application Use Cases](part4-app-use-cases.html)
 - [Transactional Support](part5-transactions.html)
